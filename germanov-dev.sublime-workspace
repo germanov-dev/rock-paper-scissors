@@ -1,0 +1,1076 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"text",
+				"textContent\t: DOMString Node"
+			],
+			[
+				"respons",
+				"responseCity"
+			],
+			[
+				"weaterTem",
+				"weatherTempC"
+			],
+			[
+				"weatherTem",
+				"weatherTempC"
+			],
+			[
+				"repeat",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"overf",
+				"overflow-y\tproperty"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"slide",
+				"slideDown\t.slideDown()"
+			],
+			[
+				"scroll",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"forE",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"score",
+				"scoreBoard"
+			],
+			[
+				"set",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"secon",
+				"secondsLeft"
+			],
+			[
+				"trigger-enter",
+				"trigger-enter-active"
+			],
+			[
+				"lin",
+				"linkCoords"
+			],
+			[
+				"highli",
+				"highlight"
+			],
+			[
+				"band",
+				"bandName"
+			],
+			[
+				"handle",
+				"handleProgress"
+			],
+			[
+				"progress",
+				"progressBar"
+			],
+			[
+				"skip",
+				"skipButtons"
+			],
+			[
+				"tex",
+				"textContent\t: DOMString Node"
+			],
+			[
+				"find",
+				"findMatches"
+			],
+			[
+				"forEach",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"add",
+				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
+			],
+			[
+				"foreac",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"second",
+				"secondsDegrees"
+			],
+			[
+				"forEah",
+				"forEach"
+			],
+			[
+				"forEac",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"querysele",
+				"querySelectorAll\t( selectors: DOMString ): NodeList Element"
+			],
+			[
+				"total",
+				"totalBill"
+			],
+			[
+				"toggl",
+				"toggle\t.toggle()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/dimitargermanov/server/projects/germanov-dev/germanov-dev.github.io/index.html",
+			"settings":
+			{
+				"buffer_size": 4851,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css se",
+				"Set Syntax: CSS"
+			],
+			[
+				"css",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"encodse",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"autopre",
+				"Autoprefix CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ecode",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"convert to tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"add repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dimitargermanov/server/projects/germanov-dev/germanov-dev.github.io"
+	],
+	"file_history":
+	[
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/assets/scss/style.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/assets/scss/_intro.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/assets/scss/_game.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/partials/head.html",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/assets/scss/_wrapper.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/assets/scss/_footer.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/home.html",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/assets/scss/_btn.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/partials/header.html",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/partials/footer.html",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/assets/scss/_base.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/assets/scss/_variables.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/rock-paper-scissors/src/assets/scss/_header.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/germanov-dev.github.io/CNAME",
+		"/Users/dimitargermanov/server/projects/germanov-dev/germanov-dev.github.io/LICENSE",
+		"/Users/dimitargermanov/server/projects/germanov-dev/germanov-dev.github.io/ls",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/js/main.js",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/partials/head.html",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/_splash-screen.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/_list.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/_variables.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/_helpers.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/style.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/partials/scripts.html",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/_logo.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/_base.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/_header.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/node_modules/needle/node_modules/iconv-lite/encodings/sbcs-data.js",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/_container.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/partials/header.html",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/_shell.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/partials/footer.html",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/src/assets/scss/_footer.scss",
+		"/Users/dimitargermanov/server/projects/germanov-dev/weather-app/index.html",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_intro.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_variables.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/js/main.js",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_slider.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_list.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/home-v2.html",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_base.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_btn.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_logo.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_wrapper.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_header.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_nav.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_tabs.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_footer.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_section.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_splash-screen.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/home.html",
+		"/Users/dimitargermanov/server/projects/hersher/src/partials/header.html",
+		"/Users/dimitargermanov/server/projects/hersher/src/partials/head.html",
+		"/Users/dimitargermanov/server/projects/hersher/src/partials/footer.html",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_animation.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_form-elements.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_form.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/style.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_sidebar.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_container.scss",
+		"/Users/dimitargermanov/server/projects/hersher/src/assets/scss/_shell.scss",
+		"/Users/dimitargermanov/server/projects/hersher/README.md",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/js/main.js",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_btn.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_tabs.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_product.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_variables.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/style.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_logo.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_section.scss",
+		"/Users/dimitargermanov/Library/Application Support/Sublime Text 3/Packages/2createEmmet/Emmet.sublime-settings",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_slider.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_nav.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/product-single.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/partials/header.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_header.scss",
+		"/Users/dimitargermanov/Downloads/bussy-free-html-email-template/regular/bussy.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_contact.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_list.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/products.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/partials/head.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/home.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_form.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_form-elements.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_popup.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_search.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_footer.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/partials/footer.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/shopify/templates/collection.liquid",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_base.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/shopify/snippets/head.liquid",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_shell.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_subscribe.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_helpers.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_therms.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/build/about.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/build/product-single.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/about.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/shopify/templates/product.liquid",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/contact.html",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_socials.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/shopify/snippets/collection-sorting.liquid",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_table.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/src/assets/scss/_main.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/package.json",
+		"/Users/dimitargermanov/server/projects/samples/interior/node_modules/@fortawesome/fontawesome-free/scss/v4-shims.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/node_modules/@fortawesome/fontawesome-free/scss/brands.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/node_modules/@fortawesome/fontawesome-free/scss/regular.scss",
+		"/Users/dimitargermanov/server/projects/samples/interior/node_modules/@fortawesome/fontawesome-free/scss/solid.scss",
+		"/Users/dimitargermanov/Desktop/test/src/assets/scss/_footer.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_tabs.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_main.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_variables.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/home.html",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_list.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_nav.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_shell.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_paging.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_bar.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_addresses.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_sidebar.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/js/main.js",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/collection.html",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/order.html",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_form.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_cart.scss",
+		"/Users/dimitargermanov/server/projects/samples/arkana-sample/src/assets/scss/_footer.scss"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/dimitargermanov/server/projects/germanov-dev/germanov-dev.github.io/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2989,
+								2989
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1115.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "germanov-dev.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"btn",
+				"src/assets/scss/_btn.scss"
+			],
+			[
+				"st",
+				"src/assets/scss/style.scss"
+			],
+			[
+				"game",
+				"src/assets/scss/_game.scss"
+			],
+			[
+				"header",
+				"src/partials/header.html"
+			],
+			[
+				"intro",
+				"src/assets/scss/_intro.scss"
+			],
+			[
+				"home",
+				"src/home.html"
+			],
+			[
+				"mai",
+				"src/assets/js/main.js"
+			],
+			[
+				"foot",
+				"src/assets/scss/_footer.scss"
+			],
+			[
+				"footer",
+				"src/partials/footer.html"
+			],
+			[
+				"wrapp",
+				"src/assets/scss/_wrapper.scss"
+			],
+			[
+				"wrap",
+				"src/assets/scss/_wrapper.scss"
+			],
+			[
+				"var",
+				"src/assets/scss/_variables.scss"
+			],
+			[
+				"head",
+				"src/partials/head.html"
+			],
+			[
+				"base",
+				"src/assets/scss/_base.scss"
+			],
+			[
+				"hea",
+				"src/partials/head.html"
+			],
+			[
+				"hoe",
+				"src/home.html"
+			],
+			[
+				"main",
+				"src/assets/js/main.js"
+			],
+			[
+				"splash",
+				"src/assets/scss/_splash-screen.scss"
+			],
+			[
+				"weather",
+				"src/assets/scss/_weather.scss"
+			],
+			[
+				"dail",
+				"src/assets/scss/_daily-weather.scss"
+			],
+			[
+				"logo",
+				"src/assets/scss/_logo.scss"
+			],
+			[
+				"ba",
+				"src/assets/scss/_base.scss"
+			],
+			[
+				"wrapper",
+				"src/assets/scss/_wrapper.scss"
+			],
+			[
+				"weat",
+				"src/assets/scss/_weather.scss"
+			],
+			[
+				"he",
+				"src/partials/head.html"
+			],
+			[
+				"helpers",
+				"src/assets/scss/_helpers.scss"
+			],
+			[
+				"s",
+				"src/assets/scss/style.scss"
+			],
+			[
+				"lis",
+				"src/assets/scss/_list.scss"
+			],
+			[
+				"script",
+				"src/partials/scripts.html"
+			],
+			[
+				"styl",
+				"src/assets/scss/style.scss"
+			],
+			[
+				"container",
+				"src/assets/scss/_container.scss"
+			],
+			[
+				"shell",
+				"src/assets/scss/_shell.scss"
+			],
+			[
+				"slider",
+				"src/assets/scss/_slider.scss"
+			],
+			[
+				"tabs",
+				"src/assets/scss/_tabs.scss"
+			],
+			[
+				"list",
+				"src/assets/scss/_list.scss"
+			],
+			[
+				"tab",
+				"src/assets/scss/_tabs.scss"
+			],
+			[
+				"sec",
+				"src/assets/scss/_section.scss"
+			],
+			[
+				"v",
+				"src/assets/scss/_variables.scss"
+			],
+			[
+				"sect",
+				"src/assets/scss/_section.scss"
+			],
+			[
+				"foote",
+				"src/assets/scss/_footer.scss"
+			],
+			[
+				"section",
+				"src/assets/scss/_section.scss"
+			],
+			[
+				"nav",
+				"src/assets/scss/_nav.scss"
+			],
+			[
+				"ma",
+				"src/assets/js/main.js"
+			],
+			[
+				"wra",
+				"src/assets/scss/_wrapper.scss"
+			],
+			[
+				"ani",
+				"src/assets/scss/_animation.scss"
+			],
+			[
+				"",
+				"src/assets/scss/_logo.scss"
+			],
+			[
+				"anim",
+				"src/assets/scss/_animation.scss"
+			],
+			[
+				"splas",
+				"src/assets/scss/_splash-screen.scss"
+			],
+			[
+				"style",
+				"src/assets/scss/style.scss"
+			],
+			[
+				"bnt",
+				"src/assets/scss/_btn.scss"
+			],
+			[
+				"form-elem",
+				"src/assets/scss/_form-elements.scss"
+			],
+			[
+				"sider",
+				"src/assets/scss/_sidebar.scss"
+			],
+			[
+				"form",
+				"src/assets/scss/_form.scss"
+			],
+			[
+				"slide",
+				"src/assets/scss/_slider.scss"
+			],
+			[
+				"sty",
+				"src/assets/scss/style.scss"
+			],
+			[
+				"sl",
+				"src/assets/scss/_slider.scss"
+			],
+			[
+				"sy",
+				"src/assets/scss/style.scss"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"products",
+				"src/assets/scss/_product.scss"
+			],
+			[
+				"product",
+				"src/assets/scss/_product.scss"
+			],
+			[
+				"slid",
+				"src/assets/scss/_slider.scss"
+			],
+			[
+				"product-single",
+				"src/product-single.html"
+			],
+			[
+				"section ",
+				"src/assets/scss/_section.scss"
+			],
+			[
+				"contact",
+				"src/assets/scss/_contact.scss"
+			],
+			[
+				"secti",
+				"src/assets/scss/_section.scss"
+			],
+			[
+				"product.scss",
+				"src/assets/scss/_product.scss"
+			],
+			[
+				"sectio",
+				"src/assets/scss/_section.scss"
+			],
+			[
+				"foemle",
+				"src/assets/scss/_form-elements.scss"
+			],
+			[
+				"select",
+				"shopify/templates/collection.liquid"
+			],
+			[
+				"products.htm",
+				"src/products.html"
+			],
+			[
+				"form-elemen",
+				"src/assets/scss/_form-elements.scss"
+			],
+			[
+				"popup",
+				"src/assets/scss/_popup.scss"
+			],
+			[
+				"search",
+				"src/assets/scss/_search.scss"
+			],
+			[
+				"se",
+				"src/assets/scss/_section.scss"
+			],
+			[
+				"eh",
+				"shopify/snippets/head.liquid"
+			],
+			[
+				"therms",
+				"src/assets/scss/_therms.scss"
+			],
+			[
+				"help",
+				"src/assets/scss/_helpers.scss"
+			],
+			[
+				"helper",
+				"src/assets/scss/_helpers.scss"
+			],
+			[
+				"btm",
+				"build/about.html"
+			],
+			[
+				"product.scs",
+				"src/assets/scss/_product.scss"
+			],
+			[
+				"single",
+				"build/product-single.html"
+			],
+			[
+				"subsc",
+				"src/assets/scss/_subscribe.scss"
+			],
+			[
+				"fo",
+				"src/assets/scss/_form.scss"
+			],
+			[
+				"subscri",
+				"src/assets/scss/_subscribe.scss"
+			],
+			[
+				"subscribe",
+				"src/assets/scss/_subscribe.scss"
+			],
+			[
+				"product.",
+				"src/assets/scss/_product.scss"
+			],
+			[
+				"prod",
+				"shopify/templates/product.liquid"
+			],
+			[
+				"cols",
+				"shopify/snippets/collection-sorting.liquid"
+			],
+			[
+				"addresses",
+				"src/assets/scss/_addresses.scss"
+			],
+			[
+				"bar",
+				"src/assets/scss/_bar.scss"
+			],
+			[
+				"paging",
+				"src/assets/scss/_paging.scss"
+			],
+			[
+				"sidebar",
+				"src/assets/scss/_sidebar.scss"
+			],
+			[
+				"collect",
+				"src/collection.html"
+			],
+			[
+				"main.scs",
+				"src/assets/scss/_main.scss"
+			],
+			[
+				"collection",
+				"src/collection.html"
+			],
+			[
+				"addres",
+				"src/assets/scss/_addresses.scss"
+			],
+			[
+				"table",
+				"src/assets/scss/_table.scss"
+			],
+			[
+				"order",
+				"src/order.html"
+			],
+			[
+				"account",
+				"src/account.html"
+			],
+			[
+				"intro-s",
+				"src/assets/scss/_intro-slider.scss"
+			],
+			[
+				"counter",
+				"src/assets/scss/_counter.scss"
+			],
+			[
+				"form-eme",
+				"src/assets/scss/_form-elements.scss"
+			],
+			[
+				"searc",
+				"src/assets/scss/_search.scss"
+			],
+			[
+				" btn",
+				"src/assets/scss/_btn.scss"
+			],
+			[
+				"cart",
+				"src/assets/scss/_cart.scss"
+			],
+			[
+				"copy",
+				"src/assets/scss/_copyright.scss"
+			],
+			[
+				"ticker",
+				"src/assets/scss/_ticker.scss"
+			],
+			[
+				"insta",
+				"src/assets/scss/_instagram.scss"
+			],
+			[
+				"categor",
+				"src/assets/scss/_categories.scss"
+			],
+			[
+				"li",
+				"src/assets/scss/_list.scss"
+			],
+			[
+				"scrip",
+				"src/partials/scripts.html"
+			],
+			[
+				"header.scss",
+				"src/assets/scss/_header.scss"
+			],
+			[
+				"search.scss",
+				"src/assets/scss/_search.scss"
+			],
+			[
+				"product-singe",
+				"src/assets/scss/_product-single.scss"
+			],
+			[
+				"checkout",
+				"build/checkout.html"
+			],
+			[
+				"login",
+				"src/login.html"
+			],
+			[
+				"contacts",
+				"src/contacts.html"
+			],
+			[
+				"for",
+				"src/assets/scss/_form.scss"
+			],
+			[
+				"form-",
+				"src/assets/scss/_form-elements.scss"
+			],
+			[
+				"set",
+				"settings.json"
+			],
+			[
+				"form-eleme",
+				"src/assets/scss/_form-elements.scss"
+			],
+			[
+				"form.scss",
+				"src/assets/scss/_form.scss"
+			],
+			[
+				"forme-",
+				"src/assets/scss/_form-elements.scss"
+			],
+			[
+				"func",
+				"js/functions.js"
+			],
+			[
+				"check",
+				"build/checkout.html"
+			],
+			[
+				"car",
+				"shopify/templates/cart.liquid"
+			],
+			[
+				"product-sing",
+				"src/assets/scss/_product-single.scss"
+			],
+			[
+				"socials",
+				"src/assets/scss/_socials.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rocke-p",
+				"~/Documents/Sublime Projects/rock-paper-scissors.sublime-project"
+			],
+			[
+				"base",
+				"~/Documents/Sublime Projects/base-theme.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/Sublime Projects/html4coins.sublime-project"
+			],
+			[
+				"arkana",
+				"~/Documents/Sublime Projects/arkana-sample.sublime-project"
+			],
+			[
+				"ark",
+				"~/Documents/Sublime Projects/arkana-sample.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
