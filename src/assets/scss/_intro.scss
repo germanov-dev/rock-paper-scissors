@@ -1,0 +1,24 @@
+/* ------------------------------------------------------------ *\
+	Intro
+\* ------------------------------------------------------------ */
+
+.intro {
+	position: absolute;
+	z-index: 10;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	opacity: 1;
+	transition: opacity 0.5s, visibility 0.5s;
+
+	h1 {
+		font-size: 100px;
+		margin-bottom: 50px;
+	}
+
+	&.fadeOut {
+		opacity: 0;
+		visibility: hidden;
+	}
+}

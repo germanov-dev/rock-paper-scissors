@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<include src="head.html"></include>
+<body>
+	<div class="wrapper">
+		<include src="header.html"></include>
+
+		<div class="intro">
+			<h1>Rock, Paper, Scissors</h1>
+
+			<button class="btn">Let's Play</button>
+		</div><!-- /.intro -->
+
+		<div class="game">
+			<header class="game__head">
+				<h2>Choose an option</h2>
+			</header><!-- /.game__head -->
+
+			<div class="game__body">
+				<img class="game__player" src="assets/images/rock.svg" alt="">
+				<img class="game__computer "src="assets/images/rock.svg" alt="">
+			</div><!-- /.game__body -->
+
+			<div class="game__actions">
+				<button class="btn rock">rock</button>
+
+				<button class="btn paper">paper</button>
+
+				<button class="btn scissors">scissors</button>
+			</div><!-- /.game__actions -->
+		</div><!-- /.game -->
+
+		<include src="footer.html"></include>
+	</div><!-- /.wrapper -->
+
+	<include src="scripts.html"></include>
+</body>
+</html>

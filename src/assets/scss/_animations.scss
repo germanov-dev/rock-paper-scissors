@@ -1,0 +1,33 @@
+/* ------------------------------------------------------------ *\
+	Animations
+\* ------------------------------------------------------------ */
+
+@keyframes shake {
+	0% {
+		transform: translateY(0);
+	}
+	15% {
+		transform: translateY(-50px);
+	}
+	25% {
+		transform: translateY(0);
+	}
+	35% {
+		transform: translateY(-50px);
+	}
+	50% {
+		transform: translateY(0);
+	}
+	65% {
+		transform: translateY(-50px);
+	}
+	75% {
+		transform: translateY(0);
+	}
+	85% {
+		transform: translateY(-50px);
+	}
+	100% {
+		transform: translateY(0);
+	}
+}

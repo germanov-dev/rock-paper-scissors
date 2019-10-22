@@ -1,0 +1,27 @@
+/* ------------------------------------------------------------ *\
+	Header
+\* ------------------------------------------------------------ */
+
+.header {
+	display: flex;
+	justify-content: space-around;
+	padding: 20px;
+
+	.player,
+	.computer {
+		text-align: center;
+	}
+
+	.player,
+	.computer {
+		strong {
+			display: block;
+			font-size: 40px;
+			margin-bottom: 10px;
+		}
+
+		span {
+			font-size: 35px;
+		}
+	}
+}

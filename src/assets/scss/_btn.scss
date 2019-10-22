@@ -1,0 +1,29 @@
+/* ------------------------------------------------------------ *\
+	Button
+\* ------------------------------------------------------------ */
+
+.btn {
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+	appearance: none;
+	font-size: 30px;
+	padding: 10px 20px;
+	background: #8edcfd;
+	border: none;
+	border-radius: 10px;
+	min-width: 150px;
+	transition: background 0.4s;
+
+	&:hover {
+		background: #8fc7c9;
+	}
+
+	&--block {
+		display: block;
+		padding-left: 0;
+		padding-right: 0;
+	}
+}

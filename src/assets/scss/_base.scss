@@ -1,0 +1,31 @@
+/* ------------------------------------------------------------ *\
+	Base
+\* ------------------------------------------------------------ */
+
+* {
+	font-weight: 400 !important;
+}
+
+html {
+	font-size: 10px;
+}
+
+body {
+	min-width: 320px;
+	background: #fff;
+	font-family: $font-one;
+	font-size: $font-size-base;
+	line-height: $line-height-base;
+	color: #000;
+	background: #fcebcb;
+}
+
+a {
+	color: inherit;
+	text-decoration: underline;
+
+	&:hover,
+	&[href^='tel'] {
+		text-decoration: none;
+	}
+}
